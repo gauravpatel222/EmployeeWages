@@ -38,3 +38,5 @@ function getWorkingHours(workingHours){
 let wage = wagePerHour*getWorkingHours(workingHours);
 
 console.log("Daily wage generated for employee is ",wage);
+
+//UC-4 calcultating wages for a Month
