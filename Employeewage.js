@@ -97,5 +97,4 @@ while(totalEmpHrs <= maxWorkingHrs && numberOfTotalDays < maxWorkingDays){
 
 }
 
-empWage = totalEmpHrs*wagePerHour;
 console.log("Total working days are : "+numberOfTotalDays+", Total working hours are : "+totalEmpHrs+", Wage of Employee is : "+empWage);
